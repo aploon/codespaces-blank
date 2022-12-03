@@ -7,6 +7,6 @@
     <title>Codespaces-blank</title>
 </head>
 <body>
-    Hello blank codespaces
+    Hello blank codespaces <?= ;) ?>
 </body>
 </html>
