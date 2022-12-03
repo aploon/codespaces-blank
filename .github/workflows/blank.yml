@@ -33,3 +33,7 @@ jobs:
       - name: Install mysql-server
         run: sudo apt install mysql-server
 
+      # Runs a single command using the runners shell
+      - name: Connect to root user
+        run: mysql -u root -p
+
